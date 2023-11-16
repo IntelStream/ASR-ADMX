@@ -1,7 +1,5 @@
 # Custom Attack Surface Reduction Rules ADMX Template
 
-![Header Image](header_image.png)
-
 ## Overview
 
 This repository contains a custom ADMX template for configuring Attack Surface Reduction Rules in Windows environments. The template is designed to provide a structured and easily configurable approach to managing Attack Surface Reduction Rules using Group Policy.
