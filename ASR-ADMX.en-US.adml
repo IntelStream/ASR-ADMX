@@ -1,21 +1,39 @@
 <policyDefinitionsResources>
   <resources>
     <stringTable>
+
+      <!-- Resources for AttackSurfaceReductionRules -->
       <string id="AttackSurfaceReductionRules" value="Attack Surface Reduction Rules" />
-      <string id="AdobeProcBlock" value="Block Adobe Process Execution" />
-      <string id="LocalScriptBlock" value="Block Local Script Execution" />
-      <string id="NetworkScriptBlock" value="Block Network Script Execution" />
-      <string id="PowerShellDDE" value="Block PowerShell DDE Execution" />
+
+      <!-- Resources for AdobeProcBlock -->
+      <string id="AdobeProcBlock" value="Adobe Process Block" />
+
+      <!-- Resources for LocalScriptBlock -->
+      <string id="LocalScriptBlock" value="Local Script Block" />
+
+      <!-- Resources for NetworkScriptBlock -->
+      <string id="NetworkScriptBlock" value="Network Script Block" />
+
+      <!-- Resources for PowerShellDDE -->
+      <string id="PowerShellDDE" value="PowerShell DDE" />
+
+      <!-- Resources for BlockCredentialPrompt -->
       <string id="BlockCredentialPrompt" value="Block Credential Prompt" />
-      <string id="MshtaBlock" value="Block Mshta Execution" />
-      <string id="OfficeVBA" value="Block Office VBA Macro Execution" />
-      <string id="WinrarBlock" value="Block WinRAR Execution" />
-      <string id="JavaBlock" value="Block Java Execution" />
-      <string id="JavaScriptBlock" value="Block JavaScript Execution" />
-      <string id="ScriptingEngineBlock" value="Block Scripting Engine Execution" />
-      <string id="BlockExecutableContent" value="Block Execution of Executable Content" />
-      <string id="EmailLinkBlock" value="Block Execution of Email Links" />
-      <string id="HTMLBlock" value="Block HTML Content Execution" />
-    </stringTable>
-  </resources>
-</policyDefinitionsResources>
+
+      <!-- Resources for MshtaBlock -->
+      <string id="MshtaBlock" value="Mshta Block" />
+
+      <!-- Resources for OfficeVBA -->
+      <string id="OfficeVBA" value="Office VBA Block" />
+
+      <!-- Resources for WinrarBlock -->
+      <string id="WinrarBlock" value="Winrar Block" />
+
+      <!-- Resources for JavaBlock -->
+      <string id="JavaBlock" value="Java Block" />
+
+      <!-- Resources for JavaScriptBlock -->
+      <string id="JavaScriptBlock" value="JavaScript Block" />
+
+      <!-- Resources for ScriptingEngineBlock -->
+      <string id="
