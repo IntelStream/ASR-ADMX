@@ -26,7 +26,7 @@ Attack Surface Reduction (ASR) is a security feature in Windows Defender that he
 
 ## Usage
 
-1. Download the ADMX and ADML files from the [Releases](https://github.com/ntelStream/ASR-ADMX/releases) page.
+1. Download the ADMX and ADML files from the [Releases](https://github.com/ntelStream/ASR-ADMX/) page.
 2. Place the ADMX file in the `C:\Windows\PolicyDefinitions` folder.
 3. Place the ADML file in the `C:\Windows\PolicyDefinitions\en-US` folder (replace `en-US` with the appropriate language code for your environment).
 4. Open the Group Policy Management Console on a domain controller.
